@@ -1,0 +1,2 @@
+# Housing-price-prediction
+The Ames data set consists of 2930 records taken from the Ames Assessor’s Office. The data set has 23 nominal, 23 ordinal, 14 discrete, and 20 continuous variables (and 2 additional observation identifiers) --- 82 features in total. An explanation of each variable can be found in the included codebook.txt file. The information was used in computing assessed values for individual residential properties sold in Ames, Iowa from 2006 to 2010
